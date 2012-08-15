@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="0.1" type="plugin" group="authentication">
+    <name>Authentication - ExpAuth</name>
+    <author>Sean McGee</author>
+    <creationDate>August 15, 2012</creationDate>
+    <copyright>(C) 2012 Sean McGee. All rights reserved.</copyright>
+    <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+    <authorEmail>sean@webdude.us</authorEmail>
+    <authorUrl>www.webdude.us</authorUrl>
+    <version>0.1</version>
+    <description>An authentication plugin that allows you to select users who's credentials expire after a set amount of time.</description>
+    <files>
+        <filename plugin="expauth">expauth.php</filename>
+    </files>
+    <params/>
+</install>
